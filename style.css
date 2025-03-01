@@ -64,6 +64,7 @@ body{
 }
 .content input::placeholder{
   color: #aaa;
+  text-transform: none;
 }
 .content input:focus::placeholder{
   color: #bfbfbf;
